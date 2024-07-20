@@ -1,4 +1,5 @@
 #include<stdio.h>
+#define p printf
 union display
 {
 	int num;
